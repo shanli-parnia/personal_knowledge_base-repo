@@ -29,6 +29,7 @@ When the user adds a new note to `raw/` and asks you to ingest it
     * For notes with text upto 100 characters, add it verbatim. For longer notes, summarize it up to 100 characters.
 * Read any other files added to the `raw/` folder and process each file as a separate note.
 * Identify the core concepts/topic of the resource. 
+* If a note contains a `[[Topic Name]]` link, use that as the note's main topic. Create the page if it doesn't exist (e.g. `[[spatial thoughts]]` -> `Spatial_Thoughts.md`) and add it to `notes/index.md` and the `mkdocs.yml` nav.
 * Identify the main topic and related topics. If the resource neatly fits into a single main topic - you do not have to have a related topic.
 * Read `notes/index.md` first to find relevant topic pages.
 * If there is no match, a new topic page can be added. See the list of topics below for additional topics of interest.
@@ -57,6 +58,9 @@ Technology Topics
 * Python
 * Data
 * Agentic Coding
+
+Featured Topics (list these first in `notes/index.md` and the `mkdocs.yml` nav)
+* Spatial Thoughts
 
 Thematic Topics
 * Climate Change

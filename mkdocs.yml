@@ -60,6 +60,7 @@ plugins:
 nav:
   - Home:
     - index.md
+    - Spatial Thoughts: Spatial_Thoughts.md
     - Embeddings: Embeddings.md
     - Deep Learning: Deep_Learning.md
     - Python: Python.md

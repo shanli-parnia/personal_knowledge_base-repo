@@ -7,11 +7,15 @@
 
 ## Latest Finds
 
-- *Spatial Thoughts*: spatial thoughts is a great way to work on various topics. See [[Remote_Sensing]].
+- *Spatial Thoughts*: spatial thoughts is a great way to work on various topics. See [[Spatial_Thoughts]].
 - [Exploring Strategic Collaborations for CO₂ Capture Innovation](https://www.linkedin.com/feed/update/urn:li:activity:7355449632098795520/): Georgia Tech team seeks industry partners for a new Direct Air Capture CO₂ technology. See [[Climate_Change]].
 - [agribound](https://github.com/montimaj/agribound): Python toolkit for delineating agricultural field boundaries from satellite imagery. See [[Agriculture]].
 
 ## Topics
+
+### Featured
+
+- [[Spatial_Thoughts]] - Spatial Thoughts and its learning resources across geospatial topics.
 
 ### Technology Topics
 
