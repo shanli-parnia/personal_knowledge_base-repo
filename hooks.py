@@ -9,7 +9,7 @@ def on_config(config):
         path = docs_dir / filepath
         if path.exists():
             content = path.read_text()
-            return len(re.findall(r'^- \[', content, re.MULTILINE))
+            return len(re.findall(r'^- (\[|\*)', content, re.MULTILINE))
         return 0
 
     def update_nav(nav_items):
